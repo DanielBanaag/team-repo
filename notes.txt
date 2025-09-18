@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 line from User B
+=======
+Line from User A
+>>>>>>> 8242a8f36427375ca179edc196f2b9e8797f73ba
